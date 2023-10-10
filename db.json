@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "title": "laptop",
+      "price": 500,
+      "description": "msi",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 200,
+      "description": "Description for Product 3"
+    },
+    {
+      "title": "Laptop",
+      "price": 400,
+      "description": "hgfbvjbv",
+      "id": 4
+    }
+  ]
+}
